@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.902
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticKeyword-Demo", "StaticKeyword-Demo\StaticKeyword-Demo.csproj", "{A9D17DD1-F032-4569-9F59-A20F1334B22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticKlasse", "StaticKlasse\StaticKlasse.csproj", "{B9CE85F3-6BF5-4C81-B9EF-AF936B64DFD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoStaticFieldEnProperty", "DemoStaticFieldEnProperty\DemoStaticFieldEnProperty.csproj", "{CFD3D6DE-D83F-4CC5-9B60-1617DF6F0F2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{A9D17DD1-F032-4569-9F59-A20F1334B22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9D17DD1-F032-4569-9F59-A20F1334B22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9D17DD1-F032-4569-9F59-A20F1334B22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CE85F3-6BF5-4C81-B9EF-AF936B64DFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CE85F3-6BF5-4C81-B9EF-AF936B64DFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CE85F3-6BF5-4C81-B9EF-AF936B64DFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CE85F3-6BF5-4C81-B9EF-AF936B64DFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD3D6DE-D83F-4CC5-9B60-1617DF6F0F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD3D6DE-D83F-4CC5-9B60-1617DF6F0F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD3D6DE-D83F-4CC5-9B60-1617DF6F0F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD3D6DE-D83F-4CC5-9B60-1617DF6F0F2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
